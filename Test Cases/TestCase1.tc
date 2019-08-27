@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Create school</description>
+   <description></description>
    <name>TestCase1</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0e16c249-2a29-4eff-b60b-5a7fa5e2a64c</testCaseGuid>
+   <testCaseGuid>ec53977b-5e93-4454-9408-59cb0ca8f6c4</testCaseGuid>
 </TestCaseEntity>
