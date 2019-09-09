@@ -20,6 +20,8 @@ WebUI.navigateToUrl('http://localhost:8082/admin/login')
 WebUI.setText(findTestObject('Object Repository/Create_School_OR/Page_School AdministrationelementelementManagement System/input_face_susername'), 
     'su')
 
+WebUI.click(findTestObject('Login(Admin)_OR/Page_School AdministrationelementelementManagement System/div_lock_outline'))
+
 WebUI.setEncryptedText(findTestObject('Object Repository/Create_School_OR/Page_School AdministrationelementelementManagement System/input_lock_outline_spassword'), 
     'pj7if9M9elU=')
 
