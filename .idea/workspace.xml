@@ -2,91 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ed1a0b2-f3e5-4e6c-a437-b035d08ee95d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/button_Submit.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/div_Longbridge_ps-scrollbar-y-rail.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/div_Longbridge_ps-scrollbar-y.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/div_Submit.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/i_add.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/i_power_settings_new.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_-_form-control.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_City_addresscity.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_Code_code.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_Country_addresscountry.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_Email Address_emailAddress.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_License Count_licenseCount.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_Local Govt Area_addresslocalGovt.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_Motto_motto.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_Name_name.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_State_addressstate.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_Telephone Number_phoneNumber.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/input_Website_website.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/p_Schools.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_SMS - School Management System/textarea_History_history.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_School AdministrationelementelementManagement System/button_Lets Go.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_School AdministrationelementelementManagement System/input_face_susername.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_Unilag/Page_School AdministrationelementelementManagement System/input_lock_outline_spassword.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/i_add (1).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/i_add (2).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/i_add (3).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/i_add (4).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/i_add (5).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/i_add.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/p_Schools (1).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/p_Schools (2).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/p_Schools (3).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/p_Schools (4).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/p_Schools (5).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_SMS - School Management System/p_Schools.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/button_Lets Go (1).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/button_Lets Go (2).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/button_Lets Go (3).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/button_Lets Go (4).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/button_Lets Go (5).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/button_Lets Go.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_face_susername (1).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_face_susername (2).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_face_susername (3).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_face_susername (4).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_face_susername (5).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_face_susername.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_lock_outline_spassword (1).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_lock_outline_spassword (2).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_lock_outline_spassword (3).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_lock_outline_spassword (4).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_lock_outline_spassword (5).rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Page_School AdministrationelementelementManagement System/input_lock_outline_spassword.rs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Scripts/Create_School/School_Unilag/Script1568108344455.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test Cases/Create_School/School_Unilag.tc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings/external/com.kms.katalon.core.db.DatabaseSettings.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/a_power_settings_new.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_School AdministrationelementelementManagement System/Page_SMS - School Management System/a_power_settings_new.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/button_Submit.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_School AdministrationelementelementManagement System/Page_SMS - School Management System/button_Submit.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/div_Longbridge_ps-scrollbar-y-rail.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_School AdministrationelementelementManagement System/Page_SMS - School Management System/div_Longbridge_ps-scrollbar-y-rail.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/div_Telephone Number_form-group has-default bmd-form-group is-filled.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_School AdministrationelementelementManagement System/Page_SMS - School Management System/div_Telephone Number_form-group has-default bmd-form-group is-filled.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/i_add.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/i_add.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_City_addresscity.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_City_addresscity.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_Code_code.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_Code_code.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_Country_addresscountry.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_Country_addresscountry.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_Email Address_emailAddress.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_Email Address_emailAddress.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_License Count_licenseCount.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_License Count_licenseCount.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_Local Govt Area_addresslocalGovt.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_Local Govt Area_addresslocalGovt.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_Motto_motto.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_Motto_motto.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_Name_name.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_Name_name.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_Showentries_form-control form-control-sm.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_Showentries_form-control form-control-sm.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_State_addressstate.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_State_addressstate.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_Telephone Number_phoneNumber.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_Telephone Number_phoneNumber.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/input_Website_website.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/input_Website_website.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/p_Schools.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/p_Schools.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/strong_.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/strong_.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_SMS - School Management System/textarea_History_history.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_SMS - School Management System/textarea_History_history.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_School AdministrationelementelementManagement System/button_Lets Go.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_School AdministrationelementelementManagement System/button_Lets Go.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_School AdministrationelementelementManagement System/input_face_susername.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_School AdministrationelementelementManagement System/input_face_susername.rs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Object Repository/Create_School_OR/Page_School AdministrationelementelementManagement System/input_lock_outline_spassword.rs" afterPath="$PROJECT_DIR$/Object Repository/Create_School_OR/School_OAU/Page_School AdministrationelementelementManagement System/input_lock_outline_spassword.rs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/Create_School/School_OAU/Script1566900699999.groovy" afterPath="$PROJECT_DIR$/Scripts/Create_School/School_OAU/Script1566900699999.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings/internal/com.kms.katalon.composer.testcase.properties" afterPath="$PROJECT_DIR$/settings/internal/com.kms.katalon.composer.testcase.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings/internal/com.kms.katalon.core.webservice.properties" afterPath="$PROJECT_DIR$/settings/internal/com.kms.katalon.core.webservice.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings/internal/com.kms.katalon.execution.properties" afterPath="$PROJECT_DIR$/settings/internal/com.kms.katalon.execution.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings/internal/com.kms.katalon.integration.analytics.properties" afterPath="$PROJECT_DIR$/settings/internal/com.kms.katalon.integration.analytics.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -364,12 +280,12 @@
       <option name="presentableId" value="Default" />
       <updated>1569339807707</updated>
       <workItem from="1569342173148" duration="5479000" />
-      <workItem from="1569406184592" duration="1745000" />
+      <workItem from="1569406184592" duration="2310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7224000" />
+    <option name="totallyTimeSpent" value="7789000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
