@@ -2,6 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ed1a0b2-f3e5-4e6c-a437-b035d08ee95d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/button_Submit.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/div_Default Admin Profile.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/div_Longbridge_ps-scrollbar-y-rail.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/div_Longbridge_ps-scrollbar-y.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/i_add.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/i_power_settings_new.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/input_Email_email.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/input_FirstName_firstName.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/input_LastName_lastName.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/input_LoginId_userloginId.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/input_Phone Number_phoneNumber.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/p_Admin Management.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/p_Admin Users.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_SMS - School Management System/span_Default Admin Profile.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_School AdministrationelementelementManagement System/button_Lets Go.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_School AdministrationelementelementManagement System/input_face_susername.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object Repository/Admin_User_OR/Page_School AdministrationelementelementManagement System/input_lock_outline_spassword.rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Scripts/Admin_Roles/Create_Admin_Role/Script1568127260506.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Scripts/Admin_Users/Super_Admin/Script1568126381453.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test Cases/Admin_Roles/Create_Admin_Role.tc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test Cases/Admin_Users/Super_Admin.tc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings/internal/com.kms.katalon.composer.testcase.properties" afterPath="$PROJECT_DIR$/settings/internal/com.kms.katalon.composer.testcase.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -17,7 +39,7 @@
       <file leaf-file-name="Script1568108344455.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scripts/Create_School/School_Unilag/Script1568108344455.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
+            <state relative-caret-position="12359">
               <caret line="740" column="9" lean-forward="false" selection-start-line="740" selection-start-column="9" selection-end-line="740" selection-end-column="9" />
               <folding>
                 <element signature="e#0#78#0" expanded="true" />
@@ -29,11 +51,9 @@
       <file leaf-file-name="Script1566899752008.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scripts/TestCase1/Script1566899752008.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#78#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,6 +104,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,10 +147,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,12 +300,14 @@
       <option name="presentableId" value="Default" />
       <updated>1569339807707</updated>
       <workItem from="1569342173148" duration="5479000" />
-      <workItem from="1569406184592" duration="2310000" />
+      <workItem from="1569406184592" duration="4953000" />
+      <workItem from="1569418667891" duration="685000" />
+      <workItem from="1569420145823" duration="615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7789000" />
+    <option name="totallyTimeSpent" value="11732000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,22 +320,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27258065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39569893" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -325,6 +347,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -368,6 +391,42 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripts/Create_School/School_Unilag/Script1568108344455.groovy">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12580">
+          <caret line="740" column="9" lean-forward="false" selection-start-line="740" selection-start-column="9" selection-end-line="740" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/TestCase1/Script1566899752008.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Create_School/School_Unilag/Script1568108344455.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12359">
+          <caret line="740" column="9" lean-forward="false" selection-start-line="740" selection-start-column="9" selection-end-line="740" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/TestCase1/Script1566899752008.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Create_School/School_Unilag/Script1568108344455.groovy">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -380,9 +439,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#78#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -395,7 +452,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/Create_School/School_Unilag/Script1568108344455.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
+        <state relative-caret-position="12359">
           <caret line="740" column="9" lean-forward="false" selection-start-line="740" selection-start-column="9" selection-end-line="740" selection-end-column="9" />
           <folding>
             <element signature="e#0#78#0" expanded="true" />
@@ -405,11 +462,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/TestCase1/Script1566899752008.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#78#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
